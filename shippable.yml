@@ -1,5 +1,7 @@
 language: ruby
-build_image: drydock/u12ruball:tip
+#build_image: drydock/u12ruball:tip
+build_image: drydock/u14ruball:tip
+
 rvm:
   - 1.9.3
 env:
